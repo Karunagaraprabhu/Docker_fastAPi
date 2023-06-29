@@ -17,3 +17,7 @@ And in all those cases, it will take much longer to build, consuming much more r
 
 If you want slim Python images, you should instead try and use the slim versions that are still based on Debian, but are smaller. 🤓
 ```
+
+
+# Deploy Flask using Gunicorn,nginx using Docker.
+https://www.youtube.com/watch?v=cjFjDXkfs6M
